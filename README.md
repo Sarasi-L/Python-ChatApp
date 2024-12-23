@@ -9,7 +9,7 @@ A stylish and feature-rich chat application built with Python and HTML/CSS. This
 - 📄 **Interactive Chat Interface**: Smooth scrolling chatbox with sender/receiver message styles.
 - 🔒 **Easy to Use**: Simple and intuitive design for everyone to enjoy.
 
-## Tech Stack:
+## Technologies:
 - **Frontend**: HTML, CSS (with responsive design elements)
 - **Backend**: Python (Flask or other server-based frameworks)
 
